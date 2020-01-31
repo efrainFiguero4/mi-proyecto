@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "nombre": "Carlos Quispe",
+    "empresa": {
+      "id": 1,
+      "nombre": "ComplexLess"
+    }
+  },
+  {
+    "id": 2,
+    "nombre": "Eduardo Ibarra",
+    "empresa": {
+      "id": 1,
+      "nombre": "Interbank"
+    }
+  },
+  {
+    "id": 3,
+    "nombre": "Mercedes Peña",
+    "empresa": {
+      "id": 1,
+      "nombre": "Inacal"
+    }
+  },
+  {
+    "id": 4,
+    "nombre": "Mercedes Peña",
+    "empresas": [
+      {
+        "id": 1,
+        "nombre": "Inacal 1"
+      },
+      {
+        "id": 2,
+        "nombre": "Inacal 2"
+      }
+    ]
+  }
+]
